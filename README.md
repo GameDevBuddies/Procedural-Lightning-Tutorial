@@ -1,6 +1,3 @@
-# Procedural-Lightning-Tutorial
-Repository containing the final state of the procedural lightning YouTube video.
-
 ![](GitHub%20Images/GitHub_Screenshot.jpg)
 # Procedural-Lightning-Tutorial
 Repository containing project files for the YouTube video that explains how to create procedural lightning in Unity.
